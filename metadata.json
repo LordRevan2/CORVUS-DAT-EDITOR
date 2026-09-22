@@ -1,0 +1,6 @@
+{
+  "name": "CORVUS // DAT EDITOR",
+  "description": "Editor profesional de archivos .DAT (MasterTextFile) para Star Wars: Empire at War.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
